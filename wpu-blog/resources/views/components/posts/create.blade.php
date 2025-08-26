@@ -24,7 +24,7 @@
     
 
     <!-- Modal body -->
-    <form action="/dashboard/create" method="POST">
+    <form action="/dashboard" method="POST">
         @csrf
         <div class="flex flex-col gap-4 mb-4">
             <div>
